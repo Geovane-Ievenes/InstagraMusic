@@ -4,4 +4,4 @@ InstaMusic is an Instagram based project. In this repository, I'll develope only
 
 ## Final Result
 
-<img src="https://github.com/Geovane-Ievenes/InstagraMusic/blob/main/final.png" width="2000px">
+<img width="2000px" src="https://github.com/Geovane-Ievenes/InstagraMusic/blob/main/final.png">
